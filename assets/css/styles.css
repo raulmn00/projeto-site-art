@@ -122,7 +122,9 @@ header section ul li {
     list-style: none;
     padding-right: 2rem;
 }
-
+header section ul li strong{
+    font-size: 20px;
+}
 header section ul li h3 {
     font-weight: 600;
     font-size: 2rem;
